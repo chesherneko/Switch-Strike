@@ -1,0 +1,38 @@
+{
+    "PixelsPerUnit": 16,
+    "CustomLevelPrefab": {
+        "instanceID": 0
+    },
+    "IntGridValueColorsVisible": false,
+    "UseCompositeCollider": true,
+    "GeometryType": 0,
+    "CreateBackgroundColor": true,
+    "CreateLevelBoundsTrigger": false,
+    "UseParallax": true,
+    "ScaleEntities": true,
+    "IntGridValues": [
+        {
+            "_key": "Ground_1",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Collider_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "6627c6ade0d4c9d46967c0cddb7620f3",
+                "type": 2
+            }
+        },
+        {
+            "_key": "Collider_2",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "480f7ac5fe3af0b4b85be84ea0d8b362",
+                "type": 2
+            }
+        }
+    ],
+    "Entities": []
+}

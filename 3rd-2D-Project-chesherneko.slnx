@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="VTabs.csproj" />
+  <Project Path="AllIn1SpriteShaderAssembly.csproj" />
+  <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="Sirenix.OdinInspector.Modules.UnityMathematics.csproj" />
+</Solution>

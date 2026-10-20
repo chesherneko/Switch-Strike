@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4187dfe956ffce498ba2df2a462f7ae, type: 3}
+  m_Name: PlayerMoveSettings
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMoveSettings
+  <MaxMoveSpeed>k__BackingField: 6.5
+  <MaxFallSpeed>k__BackingField: -20
+  <Acceleration>k__BackingField: 20
+  <Deceleration>k__BackingField: 30
+  <Gravity>k__BackingField: -9.81
+  <GroundStickGravity>k__BackingField: -2
+  <FallGravityMult>k__BackingField: 4.25
+  <LastAscentGravityMult>k__BackingField: 5.25
+  <JumpPower>k__BackingField: 13
+  <MaxJumpCount>k__BackingField: 2
+  <MaxJumpHoldTime>k__BackingField: 0.15
+  <JumpPowerMultInAir>k__BackingField: 1
+  <JumpStartMoveSpeedMult>k__BackingField: 0.75
+  <MinJumpHoldGravityMult>k__BackingField: 2.5
+  <CoyoteTimeLimit>k__BackingField: 0.15
+  <JumpBufferTimeLimit>k__BackingField: 0.15
+  <JumpHangThreshold>k__BackingField: 0.5
+  <JumpHangGravityMult>k__BackingField: 0.5
+  <JumpHangSpeedMult>k__BackingField: 1.25
+  <WallClingLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 128
+  <WallCheckDistance>k__BackingField: 0.05
+  <WallDetachInputTimeLimit>k__BackingField: 0.5
+  <WallClingGravityMult>k__BackingField: 0.75
+  <WallJumpMoveSpeedMult>k__BackingField: 0.5
+  <DashSpeed>k__BackingField: 30
+  <DashDuration>k__BackingField: 0.15
+  <DashCooldown>k__BackingField: 0.5
+  <DashEndSpeedMult>k__BackingField: 0.75
+  <SkinWidth>k__BackingField: 0.02
+  <GroundCheckDistance>k__BackingField: 0.2
+  <GroundLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 192

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Minion_Archer
+  m_Controller: {fileID: 9100000, guid: 4f0bfd6893f5ed84faf8704d9e36c6a2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0394586b4f29b024da62cb11dfef615d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 970c748c876423d468b1cddd0b32bf82, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb7c4c49a55d320489a3f5cd2d2cf8b0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20c45a721669040409fa523155cc115b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7cd326c437c13ce44bec0e600137173a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb5669b429466de4199dc8ca0d81c45e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 208b4e1e1b4f3a04c963b25db154bee0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7695ead383f3eb74d95552d6b7ca8eb8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 357cb201e65ba63408b8b090a77df2cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f0a424d590930640999fe027abb5de9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a44e4be5c53b04b4889bc12f44baa349, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b6ce1c74bf03457439f591261945ac0b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4bd4422ef790ce64f91566c117c1b8d9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c2d6b59b813aeeb47aa5b8e047eb9e04, type: 2}
